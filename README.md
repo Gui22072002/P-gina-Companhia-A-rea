@@ -47,15 +47,3 @@ Neste desafio você deverá construir uma landing page de viagens fictícia.
 Live Preview: https://rocket-travel.vercel.app/
 
 Figma: https://www.figma.com/file/MOrKnXFQqWCz01Ei1KJnCO/Rocket-Travel
-
-## 🎨 Inspiração:
-
-[Dribbble](https://dribbble.com/shots/17407084-Travel-Web-Header-Landing-Page-design/attachments/12533821?mode=media)
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
-
----
-
-Feito com ♥ by birobirobiro
